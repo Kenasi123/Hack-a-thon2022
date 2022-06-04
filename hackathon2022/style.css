@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 40rem;
+} 
+col-lg-4 img {
+    width: 40px;
+    height: 40px;
+} 
+col-lg-4 {
+    float: left;
+}
